@@ -10,11 +10,11 @@
 .special {
     font-size: 24px
 }
-.id1 {
+#bigblue {
     color:blue;
     font-size: 36px;
 }
-.id2 {
+#seegreen {
     color: black;
     background-color: lightgreen;
     font-weight: 700;
