@@ -1,0 +1,22 @@
+.classes,
+.special{
+    color: black;
+    background-color:indianred;
+    font-family: Verdana, "DejuVu Sans", sans-serif
+}
+.classes {
+    font-size: 18px
+}
+.special {
+    font-size: 24px
+}
+.id1 {
+    color:blue;
+    font-size: 36px;
+}
+.id2 {
+    color: black;
+    background-color: lightgreen;
+    font-weight: 700;
+    font-size: 24px;
+}
